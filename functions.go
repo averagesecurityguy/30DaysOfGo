@@ -38,6 +38,7 @@ func test_string(s string) (int, bool) {
 	return l, l < 5
 }
 
+
 func main() {
 
 	// Check the number of arguments we have. The name of the script is the
