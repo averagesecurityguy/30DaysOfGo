@@ -9,3 +9,5 @@ Please take these scripts, build on them, and tell me about it. If any of the sc
 * Day 2 - flow.go
 * Day 3 - functions.go
 * Day 4 - maps.go
+* Day 5 - struct.go
+* Day 6 - encode.go
