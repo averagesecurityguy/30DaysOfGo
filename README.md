@@ -11,3 +11,4 @@ Please, take these scripts, build on them, and tell me about it. If any of the s
 * Day 4 - maps.go
 * Day 5 - struct.go
 * Day 6 - encode.go
+* Day 7 - decode.go
