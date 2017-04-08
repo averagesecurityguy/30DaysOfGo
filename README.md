@@ -12,3 +12,4 @@ Please, take these scripts, build on them, and tell me about it. If any of the s
 * Day 5 - struct.go
 * Day 6 - encode.go
 * Day 7 - decode.go
+* Day 8 - hash.go
