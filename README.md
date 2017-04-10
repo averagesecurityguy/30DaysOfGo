@@ -14,3 +14,4 @@ Please, take these scripts, build on them, and tell me about it. If any of the s
 * Day 7 - decode.go
 * Day 8 - hash.go
 * Day 9 - sieve.go
+* Day 10 - isprime.go
