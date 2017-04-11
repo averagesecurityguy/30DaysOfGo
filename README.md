@@ -15,3 +15,4 @@ Please, take these scripts, build on them, and tell me about it. If any of the s
 * Day 8 - hash.go
 * Day 9 - sieve.go
 * Day 10 - isprime.go
+* Day 11 - factor.go  (Read this https://thenewstack.io/understanding-golang-packages/ and see if you can make a module to consolidate the code for days 9 - 11.)
