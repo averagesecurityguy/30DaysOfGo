@@ -21,3 +21,4 @@ Please, take these scripts, build on them, and tell me about it. If any of the s
 * Day 14 - insert_encoder.go  (Use the flag package discussed in this script to try to join the encode and decode scripts.)
 * Day 15 - hibp_paste.go
 * Day 16 - gravatar.go
+* Day 17 - nmap_summary.go
