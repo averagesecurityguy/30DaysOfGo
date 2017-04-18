@@ -22,3 +22,5 @@ Please, take these scripts, build on them, and tell me about it. If any of the s
 * Day 15 - hibp_paste.go
 * Day 16 - gravatar.go
 * Day 17 - nmap_summary.go
+* Day 18 - nessus_plugin.go
+
