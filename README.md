@@ -25,3 +25,5 @@ Please, take these scripts, build on them, and tell me about it. If any of the s
 * Day 18 - nessus_plugin.go
 * Day 19 - http_method_check.go
 * Day 20 - routine_channels.go
+* Day 21 - brute_http_basic.go  (Use the concepts in this script and the last one to parallelize the nmap and nessus parsers.)
+
