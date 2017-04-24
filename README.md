@@ -28,3 +28,4 @@ Please, take these scripts, build on them, and tell me about it. If any of the s
 * Day 21 - brute_http_basic.go  (Use the concepts in this script and the last one to parallelize the nmap and nessus parsers.)
 * Day 22 - mongoscram.go
 * Day 23 - censys.go (You will need API credentials to run this.)
+* Day 24 - cryptopals-1-12.go
