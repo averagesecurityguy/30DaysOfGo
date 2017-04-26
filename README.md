@@ -30,3 +30,5 @@ Please, take these scripts, build on them, and tell me about it. If any of the s
 * Day 23 - censys.go (You will need API credentials to run this.)
 * Day 24 - cryptopals-1-12.go
 * Day 25 - cryptopals-1-3.go
+* Day 26 - cryptopals-1-4.go
+
