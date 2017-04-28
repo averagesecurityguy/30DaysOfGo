@@ -32,3 +32,4 @@ Please, take these scripts, build on them, and tell me about it. If any of the s
 * Day 25 - cryptopals-1-3.go
 * Day 26 - cryptopals-1-4.go
 * Day 27 - cryptopals-1-5.go
+* Day 28 - cryptopals-1-6.go
