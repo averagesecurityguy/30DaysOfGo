@@ -2,12 +2,12 @@
 Copyright (c) 2017, AverageSecurityGuy
 # All rights reserved.
 
-Complete challenge 6 from Cryptopals set 1.
+Complete challenge 8 from Cryptopals set 1.
 http://cryptopals.com/sets/1
 
 Usage:
 
-$ go run cryptopals-1-6.go
+$ go run cryptopals-1-8.go
 */
 
 package main
